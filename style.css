@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Itim', cursive;
+   
+    
+}
+
+h3{
+    text-shadow: 2px 2px 1px rgb(91, 92, 95); ;
+    color: darkorange;
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 30px;
+    
+}
+button :hover{ background-color: rgb(83, 83, 82);}
+button{ border-radius: 10px ;
+background-color: rgb(247, 173, 82); ;
+font-size: large;
+margin-left: 10px;
+width: 150px;
+padding: 6px 6px;
+
+}
+p{
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 15px;
+}
+label{
+    font-size: larger;
+}
+#age{
+    margin-left: 20px;
+    width: 150px;
+    border-radius: 10px;
+    font-size: large;
+    background-color:rgb(83, 83, 82) ;
+}
+
+.container{
+    margin-left: 200px;
+    margin-right: 150px;
+    margin-top: 150px;
+    background-color:  #0E2F2F;
+    width: 800px;
+    padding-right: 30px;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    text-align: center;
+    border-radius: 20px;
+   
+}
+.contact{
+   padding-left: 20px;
+   margin-top:  30px;
+}
